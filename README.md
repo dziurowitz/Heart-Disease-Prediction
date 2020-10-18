@@ -5,7 +5,7 @@ Dataset is taken from UCI database: https://archive.ics.uci.edu/ml/datasets/hear
 
 Is it containing 14 attributes related to heart's performance:
 
-![Dataset](./img/table.png)
+![Dataset](./img/table.PNG)
 
 Script contains analysis of correlation between those attributes with heart disease and a correlation matrix:
 
